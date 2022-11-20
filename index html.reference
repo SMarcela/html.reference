@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Lista joburi</title>
+</head>
+
+<body>
+    <h1>This is the new section</h1>
+    <p>Welcome to the new section!</p>
+    <a href="https://www.google.com/"Google</a>
+	
+	<hr>
+	
+    <div id="newsSection">
+        <h2>This is the contact us section</h2>	
+    </div>
+	<img src="workplace.jpg" alt="Workplace" width="400" height="300">
+	<form action="/action_page.php" method="get">
+	<h3>Your CV</h3>
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+<table>
+<li>
+  <tr>
+    <th>Month</th>
+  </tr>
+  <tr>
+    <td>January</td>
+  </tr>
+  <tr>
+    <td>February</td>
+  </tr>
+  </li>
+</table>
+
+</body>
+
+</html>
